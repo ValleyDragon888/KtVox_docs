@@ -4,7 +4,7 @@ A game loop is the backbone of your game. It loops
 around, and every frame re-draws the screen.
 
 But first we need to initialise the window:
- ```
+ ```kotlin
  fun main() {
      w = Window(20, 20)
  }
@@ -21,7 +21,7 @@ Next, every frame, the game loop needs to do 3 things:
 
 Here is some code to do this:
 
- ```
+ ```kotlin
  fun main() {
      w = Window(20, 20)
      while(true) {

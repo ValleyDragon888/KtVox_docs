@@ -26,3 +26,5 @@ So, let's start with the same code as last time:
         botomRight = XYPosition(5, 5)
  )
  ```
+
+ You should see a box appear on-screen!
