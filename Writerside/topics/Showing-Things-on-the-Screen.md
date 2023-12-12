@@ -20,7 +20,9 @@ So, let's start with the same code as last time:
 
  Replace it with
 
- ```w.drawBoxOutline(
+ ```
+ w.drawBoxOutline(
         topLeft = XYPosition(0, 0)
         botomRight = XYPosition(5, 5)
- )```
+ )
+ ```
