@@ -35,5 +35,7 @@ Here is some code to do this:
 In this snippet, the `while(true)` repeats indefinitely,
 `w.clear()` clears the screen, and `w.printScreen()` updates the terminal.
 
+If there was any code to draw something in ``
+
 Now, lets do some interesting stuff.
 

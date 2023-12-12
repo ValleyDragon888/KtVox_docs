@@ -6,8 +6,10 @@
                  name="KtVox_docs"
                   start-page="Homepage.md">
 
+    <toc-element topic="Homepage.md"/>
     <toc-element topic="Quick-Start-Tutorial.md">
         <toc-element topic="Game-Loop.md"/>
+        <toc-element topic="Showing-Things-on-the-Screen.md"/>
+        <toc-element topic="Sprites.md"/>
     </toc-element>
-    <toc-element topic="Homepage.md"/>
 </instance-profile>
