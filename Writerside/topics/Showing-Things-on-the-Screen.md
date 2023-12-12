@@ -4,7 +4,7 @@ This time, we will actually show things on the screen. Promise.
 
 So, let's start with the same code as last time:
 
-```
+```kotlin
  fun main() {
      w = Window(20, 20)
      while(true) {
@@ -20,7 +20,7 @@ So, let's start with the same code as last time:
 
  Replace it with
 
- ```
+ ```kotlin
  w.drawBoxOutline(
         topLeft = XYPosition(0, 0)
         botomRight = XYPosition(5, 5)
