@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://resources.jetbrains.com/writerside/1.0/redirection-rules.dtd">
+<rules>
+    <!-- format is as follows
+    <rule id="<unique id>">
+        <accepts>page.html</accepts>
+    </rule>
+    -->
+    <rule id="170b9eb1">
+        <description>Created after removal of "This is the first topic" from Help Instance</description>
+        <accepts>Default-topic.html</accepts>
+    </rule>
+    <rule id="741df14">
+        <description>Created after removal of "Your First Game Loop" from Ascii-engine docs</description>
+        <accepts>Your-First-Game-Loop.html</accepts>
+    </rule>
+    <rule id="72abcb19">
+        <description>Created after removal of "Quick Start" from Ascii-engine docs</description>
+        <accepts>Quick-Start.html</accepts>
+    </rule>
+</rules>
